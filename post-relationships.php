@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: პოსტების ურთიერთკავშირები
+ * Plugin Name: Post relationship
  * Description: WordPress-ის პლაგინი პოსტებს შორის ურთიერთკავშირების შესაქმნელად
  * Version: 1.0.0
  * Author: აბე ფრანგიშვილი
