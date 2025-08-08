@@ -3,7 +3,7 @@
  * Plugin Name: პოსტების ურთიერთკავშირები
  * Description: WordPress-ის პლაგინი პოსტებს შორის ურთიერთკავშირების შესაქმნელად
  * Version: 1.0.0
- * Author: პრანგიშვილი აბე
+ * Author: აბე ფრანგიშვილი
  * Text Domain: post-relationships
  */
 
