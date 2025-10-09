@@ -1,0 +1,77 @@
+/* ადმინ პანელის სტილები */
+.post-relationships-box {
+    padding: 15px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin-bottom: 20px;
+}
+
+.post-relationships-box label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.post-relationships-box select {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Select2 სტილების გადაფარვა */
+.select2-container {
+    width: 100% !important;
+    margin-bottom: 10px;
+}
+
+.select2-container--default .select2-selection--multiple {
+    border-color: #7e8993;
+    border-radius: 4px;
+}
+
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+    border-color: #007cba;
+    box-shadow: 0 0 0 1px #007cba;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #007cba;
+    border-color: #006ba1;
+    color: #fff;
+    padding: 4px 8px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #fff;
+    margin-right: 5px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove:hover {
+    color: #fff;
+    opacity: 0.8;
+}
+
+.select2-results__option {
+    padding: 8px 12px;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #007cba;
+}
+
+/* ადმინ გვერდის ცხრილი */
+.wp-list-table th {
+    font-weight: 600;
+}
+
+.wp-list-table td {
+    vertical-align: middle;
+}
+
+.wp-list-table a {
+    text-decoration: none;
+}
+
+.wp-list-table a:hover {
+    color: #007cba;
+}
